@@ -1,0 +1,1 @@
+D:\PersonalProject\AppChat\AppChat\AppChat.csproj;x86

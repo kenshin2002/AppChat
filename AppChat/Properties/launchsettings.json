@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "AppChat (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "AppChat (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}

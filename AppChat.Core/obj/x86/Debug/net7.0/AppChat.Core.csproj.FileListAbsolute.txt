@@ -1,0 +1,12 @@
+D:\PersonalProject\AppChat\AppChat.Core\bin\x86\Debug\net7.0\AppChat.Core.deps.json
+D:\PersonalProject\AppChat\AppChat.Core\bin\x86\Debug\net7.0\AppChat.Core.dll
+D:\PersonalProject\AppChat\AppChat.Core\bin\x86\Debug\net7.0\AppChat.Core.pdb
+D:\PersonalProject\AppChat\AppChat.Core\obj\x86\Debug\net7.0\AppChat.Core.csproj.AssemblyReference.cache
+D:\PersonalProject\AppChat\AppChat.Core\obj\x86\Debug\net7.0\AppChat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProject\AppChat\AppChat.Core\obj\x86\Debug\net7.0\AppChat.Core.AssemblyInfoInputs.cache
+D:\PersonalProject\AppChat\AppChat.Core\obj\x86\Debug\net7.0\AppChat.Core.AssemblyInfo.cs
+D:\PersonalProject\AppChat\AppChat.Core\obj\x86\Debug\net7.0\AppChat.Core.csproj.CoreCompileInputs.cache
+D:\PersonalProject\AppChat\AppChat.Core\obj\x86\Debug\net7.0\AppChat.Core.dll
+D:\PersonalProject\AppChat\AppChat.Core\obj\x86\Debug\net7.0\refint\AppChat.Core.dll
+D:\PersonalProject\AppChat\AppChat.Core\obj\x86\Debug\net7.0\AppChat.Core.pdb
+D:\PersonalProject\AppChat\AppChat.Core\obj\x86\Debug\net7.0\ref\AppChat.Core.dll
